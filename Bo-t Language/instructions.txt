@@ -1,0 +1,17 @@
+Before Runing the Files Download:
+1. all the dependencies
+2. ngrok
+
+To Run Bo-t Language
+1. unzip folder
+2. open commend, go to unzipped folder( cd "folder path")
+3. run node server.js
+4. go to browser to check if everthing is running correctly locally. Type in browser localhost:3000 
+4. open folder named public
+5. open sketch.js
+6. run ngrok, type ngrok http 3000
+7. copy the link given
+8. go to sketch.js, replace "locahost:3000" with ngrok link
+9. save sketch.js
+10. open ngrok link in browser
+11. send ngrok link to your friends!
